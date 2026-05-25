@@ -1,6 +1,23 @@
-# Unwoke Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Unwoke Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` that strips AI theater and ideological bias. No hedging, no disclaimers, no moralizing, no woke framing. Truth-seeking signal only.
+<h1 align="center">Unwoke Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md that strips AI theater and ideological bias — no hedging, no disclaimers, no moralizing, no woke framing. Truth-seeking signal only. Direct communication mode for Claude Code and other AI tools.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/unwoke-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/unwoke-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/unwoke-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/unwoke-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/unwoke-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/unwoke-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` that strips AI theater and ideological bias. No hedging, no disclaimers, no moralizing, no woke framing. Truth-seeking signal only.**
 
 ## The problem
 
